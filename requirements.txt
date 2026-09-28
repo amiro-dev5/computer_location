@@ -1,0 +1,5 @@
+Django==6.0.7
+requests
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Devices.Geolocation
